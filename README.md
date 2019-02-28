@@ -6,6 +6,6 @@ Project content
 
 This project consists for the following files are:
 
-css
-README.md - information about project
-index.html
+1)   css
+2)   README.md - information about project
+3)   index.html
