@@ -1,11 +1,13 @@
 # portfolio
 by MADISETTY PRATHYUSHA
-Portfolio Project, part of the Udacity Full Stack Web Developer Nanodegree.
+Portfolio Project, part of the Udacity Projects.
 
 Project content
 
 This project consists for the following files are:
 
-1)   css
-2)   README.md - information about project
-3)   index.html
+# css
+# README.md - information about project
+# index.html
+
+Built a fully responsive site using HTML, CSS & Bootstrap elements
